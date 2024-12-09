@@ -4,4 +4,4 @@ const kev = "Kévin";
 const clarel = "Clarelle";
 const clem = "Clément";
 
-console.log(chalk.blue(theo) + " " + chalk.green(kev) + " " + chalk.yellow(clarel) + " " + chalk.green(clem));
+console.log(chalk.blue(theo) + " " + chalk.red(kev) + " " + chalk.yellow(clarel) + " " + chalk.green(clem));
